@@ -1,1 +1,6 @@
 *.docx
+*.tmp
+/KiCAD/ASSY \#00324 AccDecUni SlowMotor/DCCACC3-backups
+KiCAD/ASSY \#00324 AccDecUni SlowMotor/fp-info-cache
+KiCAD/fp-info-cache
+KiCAD/sym-lib-table
